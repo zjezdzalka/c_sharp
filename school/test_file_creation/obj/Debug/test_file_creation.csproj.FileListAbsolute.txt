@@ -1,0 +1,7 @@
+C:\xampp\htdocs\c_sharp\school\test_file_creation\bin\Debug\test_file_creation.exe.config
+C:\xampp\htdocs\c_sharp\school\test_file_creation\bin\Debug\test_file_creation.exe
+C:\xampp\htdocs\c_sharp\school\test_file_creation\bin\Debug\test_file_creation.pdb
+C:\xampp\htdocs\c_sharp\school\test_file_creation\obj\Debug\test_file_creation.csproj.AssemblyReference.cache
+C:\xampp\htdocs\c_sharp\school\test_file_creation\obj\Debug\test_file_creation.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\c_sharp\school\test_file_creation\obj\Debug\test_file_creation.exe
+C:\xampp\htdocs\c_sharp\school\test_file_creation\obj\Debug\test_file_creation.pdb
