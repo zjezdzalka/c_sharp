@@ -18,6 +18,16 @@ namespace test_file_creation
         {
             FileStream file = new FileStream(@"c:\xampp\htdocs\c_sharp\school\test_file_creation\asd.txt", FileMode.OpenOrCreate);
             AddText(file, "asd");
+            int a;
+            int b = 1;
+            int c = 2;
+            int e = 230948;
+            Console.WriteLine(GC.CollectionCount(0));
+            GC.Collect(0);
+            GC.Collect(0);
+            GC.Collect(0);
+            GC.Collect(0);
+            Console.WriteLine(GC.CollectionCount(0));
             file.Close();
             Console.ReadKey();
         }
