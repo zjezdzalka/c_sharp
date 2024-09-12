@@ -1,0 +1,7 @@
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\bin\Debug\sipheros_los_pingwinos_test_2024_09_12.exe.config
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\bin\Debug\sipheros_los_pingwinos_test_2024_09_12.exe
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\bin\Debug\sipheros_los_pingwinos_test_2024_09_12.pdb
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\obj\Debug\sipheros_los_pingwinos_test_2024_09_12.csproj.AssemblyReference.cache
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\obj\Debug\sipheros_los_pingwinos_test_2024_09_12.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\obj\Debug\sipheros_los_pingwinos_test_2024_09_12.exe
+C:\xampp\htdocs\c_sharp\school\sipheros_los_pingwinos_test_2024_09_12\obj\Debug\sipheros_los_pingwinos_test_2024_09_12.pdb
