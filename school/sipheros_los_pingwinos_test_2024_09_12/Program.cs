@@ -5,6 +5,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+public sealed class asdba
+{
+    string nigger { get; set; }
+}
+
 namespace sipheros_los_pingwinos_test_2024_09_12
 {
     public abstract class asd
@@ -13,6 +19,11 @@ namespace sipheros_los_pingwinos_test_2024_09_12
         public abstract void draw();
         public string a2sd;
         protected abstract void as12();
+    }
+
+    public abstract class nigger
+    {
+        public abstract void asd();
     }
     public class asdd : asd
     {
@@ -27,8 +38,13 @@ namespace sipheros_los_pingwinos_test_2024_09_12
         }
 
     }
+
     public class Pingwinos
     {
+        protected class nigger3
+        {
+            string asd { get; set; }
+        }
         private decimal balance;
         public virtual void Run()
         {
@@ -43,6 +59,10 @@ namespace sipheros_los_pingwinos_test_2024_09_12
         {
             Console.WriteLine("created pingwinos2");
         }
+    }
+    protected class nigger1
+    {
+
     }
     class Sipheros : Pingwinos
     {
@@ -100,7 +120,9 @@ namespace sipheros_los_pingwinos_test_2024_09_12
             dfg.draw();
 
             //cant do as12 bc of protection level
+            asdba A = new asdba();
 
+            Pingwinos.nigger3 Niggwe = new Pingwinos.nigger3();
             Console.ReadKey();
         }
     }
